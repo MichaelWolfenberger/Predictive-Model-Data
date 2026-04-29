@@ -1,4 +1,4 @@
-##Advanced AI and ML - CO2 Emission Predictor
+# Advanced AI and ML - CO2 Emission Predictor
 
 ## Software & Hardware Requirements
 **Hardware Requirements:**
